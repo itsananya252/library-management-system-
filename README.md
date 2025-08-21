@@ -1,1 +1,1 @@
-this library management system helps in managing a library by storing the name of the book and the author making it earier to add or view a book to check whether it is available or not it can also help in issuing a book and such tasks# library-management-system-
+# library-management-system-
